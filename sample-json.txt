@@ -1,0 +1,13 @@
+{
+    "cadena":"Hola",
+    "numero":2.3,
+    "bool":true,
+    "nulo":null,
+    "objecto":{"nombre":"Marie","apellido":"Zapata","edad":6},
+    "arreglo":[1,2,3,4,5],
+    "arreglo_objectos":[
+                {"nombre":"Ana","edad":15},
+                {"nombre":"Pedro","edad":20}]
+}
+
+
